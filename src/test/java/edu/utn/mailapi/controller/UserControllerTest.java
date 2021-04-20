@@ -10,6 +10,8 @@ import org.mockito.Mock;
 import org.mockito.Mockito;
 
 import java.time.LocalDate;
+import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 
 import static org.mockito.Mockito.when;
@@ -49,6 +51,25 @@ public class UserControllerTest {
         when(userDao.get("finopablo", "1234")).thenReturn(null);
         User user = userController.login("finopablo", "1234");
         Assert.fail("Username does not exists so should trhow an exception");
+    }
+
+    @Test
+    public void testIfGetAllIsEmpty(){
+        when(userDao.getAll()).thenReturn(Collections.EMPTY_LIST);
+        List<User> users = userController.getAll();
+        //Assert.assertEquals(0,users.size());
+        Assert.assertTrue(users.isEmpty());
+    }
+
+    @Test
+    public void testIfGetAllIsNotEmpty(){
+        List<User> users = new ArrayList<>();
+        users.add(new User("finopablo", "1234", "Pablo", "Fino", LocalDate.MIN) );
+        users.add(new User("Pepe", "1234", "Pepe", "Test1", LocalDate.MIN) );
+
+        when(userDao.getAll()).thenReturn(users);
+        List<User> retriveUser = userController.getAll();
+        Assert.assertEquals(2,users.size());
     }
 
 }
