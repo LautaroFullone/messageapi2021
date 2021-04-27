@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="544a29e4-b6d9-474d-a459-a13e5fa6397f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/edu/utn/mailapi/controller/UserControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/edu/utn/mailapi/controller/UserControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Laboratorio V/Tp-Noticias" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Laboratorio V/springRepaso" />
   </component>
   <component name="RunManager" selected="JUnit.UserControllerTest.testIfGetAllIsEmpty">
     <configuration name="UserControllerTest.testIfGetAllIsEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -90,6 +90,9 @@
       <workItem from="1618353983929" duration="2922000" />
       <workItem from="1618358298735" duration="2665000" />
       <workItem from="1618416274720" duration="146000" />
+      <workItem from="1618965087211" duration="20000" />
+      <workItem from="1618965139988" duration="1191000" />
+      <workItem from="1619482166137" duration="101000" />
     </task>
     <servers />
   </component>
