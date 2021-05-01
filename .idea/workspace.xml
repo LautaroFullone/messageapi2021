@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="544a29e4-b6d9-474d-a459-a13e5fa6397f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1r8NTIYoeDfu5qiTifzYWCzCeXz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Laboratorio V/springRepaso" />
+  </component>
+  <component name="RunManager" selected="JUnit.UserControllerTest.testIfGetAllIsEmpty">
+    <configuration name="UserControllerTest.testIfGetAllIsEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MessageAPI2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.utn.mailapi.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.utn.mailapi.controller" />
+      <option name="MAIN_CLASS_NAME" value="edu.utn.mailapi.controller.UserControllerTest" />
+      <option name="METHOD_NAME" value="testIfGetAllIsEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserControllerTest.testIfGetAllIsNotEmpty" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MessageAPI2021" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.utn.mailapi.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.utn.mailapi.controller" />
+      <option name="MAIN_CLASS_NAME" value="edu.utn.mailapi.controller.UserControllerTest" />
+      <option name="METHOD_NAME" value="testIfGetAllIsNotEmpty" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserControllerTest.testIfGetAllIsEmpty" />
+        <item itemvalue="JUnit.UserControllerTest.testIfGetAllIsNotEmpty" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="544a29e4-b6d9-474d-a459-a13e5fa6397f" name="Default Changelist" comment="" />
+      <created>1618353772449</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618353772449</updated>
+      <workItem from="1618353775055" duration="146000" />
+      <workItem from="1618353983929" duration="2922000" />
+      <workItem from="1618358298735" duration="2665000" />
+      <workItem from="1618416274720" duration="146000" />
+      <workItem from="1618965087211" duration="20000" />
+      <workItem from="1618965139988" duration="1191000" />
+      <workItem from="1619482166137" duration="101000" />
+      <workItem from="1619555702149" duration="3464000" />
+      <workItem from="1619626238500" duration="261000" />
+      <workItem from="1619837222816" duration="723000" />
+      <workItem from="1619907313756" duration="356000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
